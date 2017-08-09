@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My Github Web Page
 
-You can use the [editor on GitHub](https://github.com/mUmairNaxir/mUmairNaxir.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the place where I will be publishing changes in my projects As soon as I'm done with them. So, keep visiting my [site](https://mUmairNaxir.github.io) frequently to synchonise your work with mine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##My current Projects
+Presently I'm working on following two projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###CalcoTester
 
-```markdown
-Syntax highlighted code block
+A java-based calculation enhancing and logic building game. A simple but an interactive and fun to play game.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+###eAttendance
 
-1. Numbered
-2. List
+An Android-based attendance app, wherein a teacher can attend his all classes in one app.
+The data is stored in the android device itself besides storage at a cloud platform or backed up in your email account.
+From percentage to shortage to anything in between, everything is calculated automatically and updated instantly at each instance of the class being attended.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mUmairNaxir/mUmairNaxir.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
